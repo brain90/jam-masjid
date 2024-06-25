@@ -4,6 +4,7 @@ Aplikasi display masjid digunakan sebagai media informasi pada masjid dan mushol
 # Sekilas
 * Sumber aplikasi adalah repo berikut: https://github.com/fahroniganteng/Display-Masjid
 * Aplikasi sudah ditambahkan jam syuruq oleh @brain90
+* Aplikasi sudah digunakan di Masjid Bukit Asri & Mushola Jabal Asri Cibinong
 * Aplikasi akan dikembangkan oleh 5 sekawan agar menjadi lebih advance.
 
 # Instalasi
