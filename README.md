@@ -1,4 +1,4 @@
-# JAM MASJID - VERSI 1.0.0
+# Jam Masjid v1.0
 
 
 Aplikasi display masjid digunakan sebagai media informasi pada masjid dan musholla.  
@@ -11,7 +11,6 @@ Jam masjid menggunakan json sebagai database. Cukup Ekstrak kode di webroot. Apl
 * Akses / untuk halaman admin
 * Akses /display untuk halaman jam masjid
 
-
 # Screenshot
-
+![screenshot](https://github.com/brain90/jam-masjid/blob/main/dist/img/sc.jpg)
 
