@@ -1,8 +1,10 @@
 # Jam Masjid v1.0
-
-
 Aplikasi display masjid digunakan sebagai media informasi pada masjid dan musholla.  
 
+# Sekilas
+* Sumber aplikasi adalah repo berikut: https://github.com/fahroniganteng/Display-Masjid
+* Aplikasi sudah ditambahkan jam syuruq oleh @brain90
+* Aplikasi akan dikembangkan oleh 5 sekawan agar menjadi lebih advance.
 
 # Instalasi
 
