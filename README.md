@@ -21,3 +21,7 @@ Jam masjid menggunakan json sebagai database. Cukup Ekstrak kode di webroot. Apl
 
 * Aplikasi FOSS berkualitas tinggi untuk aplikasi jam masjid
 * Jam Masjid dengan harga terjangkau untuk masjid & mushola se-indonesia
+
+# Keterangan
+
+Repo ini adalah project internship antara smk idn tingkat 1 dengan algoris.id
